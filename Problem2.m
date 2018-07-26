@@ -22,6 +22,5 @@ sum(fe)
 t = cputime - t;
 fprintf('Elapsed time: %d s\n', t);
 
-
-%date: 7/25/18
-%time: 9:10
+%date and time completed:
+%7/25/2018 -- 9:10 pm
